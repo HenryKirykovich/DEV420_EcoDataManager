@@ -1,0 +1,501 @@
+SpeciesId,Name,Category,ConservationStatus
+1,Northern Cardinal,Bird,Least Concern
+2,Blue Jay,Bird,Least Concern
+3,American Robin,Bird,Least Concern
+4,Monarch Butterfly,Insect,Endangered
+5,Eastern Redbud,Plant,Not Evaluated
+6,Mourning Dove,Bird,Least Concern
+7,Eastern Bluebird,Bird,Least Concern
+8,American Goldfinch,Bird,Least Concern
+9,Bald Eagle,Bird,Least Concern
+10,Black-capped Chickadee,Bird,Least Concern
+11,White-tailed Deer,Mammal,Least Concern
+12,Eastern Tiger Swallowtail,Insect,Least Concern
+13,Black Bear,Mammal,Least Concern
+14,White-tailed Jackrabbit,Mammal,Least Concern
+15,Gray Wolf,Mammal,Least Concern
+16,American Alligator,Reptile,Least Concern
+17,Eastern Box Turtle,Reptile,Least Concern
+18,Bald Cypress,Plant,Least Concern
+19,Red Maple,Plant,Least Concern
+20,White Oak,Plant,Least Concern
+21,Black Cherry,Plant,Least Concern
+22,American Bison,Mammal,Near Threatened
+23,Mountain Lion,Mammal,Least Concern
+24,Eastern Cottonwood,Plant,Least Concern
+25,Southern Magnolia,Plant,Least Concern
+26,Bobcat,Mammal,Least Concern
+27,Ruby-throated Hummingbird,Bird,Least Concern
+28,Carolina Wren,Bird,Least Concern
+29,Painted Bunting,Bird,Least Concern
+30,Eastern Phoebe,Bird,Least Concern
+31,American Toad,Amphibian,Least Concern
+32,Eastern Gray Squirrel,Mammal,Least Concern
+33,White-tailed Ptarmigan,Bird,Least Concern
+34,Red-tailed Hawk,Bird,Least Concern
+35,American Black Bear,Mammal,Least Concern
+36,Eastern Coyote,Mammal,Least Concern
+37,White-tailed Prairie Dog,Mammal,Least Concern
+38,American Badger,Mammal,Least Concern
+39,Eastern Chipmunk,Mammal,Least Concern
+40,Northern Mockingbird,Bird,Least Concern
+41,Brown-headed Nuthatch,Bird,Least Concern
+42,Eastern Chipmunk,Mammal,Least Concern
+43,Eastern Gray Squirrel,Mammal,Least Concern
+44,Carolina Chickadee,Bird,Least Concern
+45,Red-winged Blackbird,Bird,Least Concern
+46,Eastern Bluebird,Bird,Least Concern
+47,Black-capped Chickadee,Bird,Least Concern
+48,Red Fox,Mammal,Least Concern
+49,Eastern Coyote,Mammal,Least Concern
+50,Gray Fox,Mammal,Least Concern
+51,Black Bear,Mammal,Least Concern
+52,Common Raccoon,Mammal,Least Concern
+53,Eastern Cottontail,Mammal,Least Concern
+54,Northern Bobwhite,Bird,Least Concern
+55,Eastern Meadowlark,Bird,Least Concern
+56,Eastern Towhee,Bird,Least Concern
+57,Eastern Phoebe,Bird,Least Concern
+58,White-tailed Deer,Mammal,Least Concern
+59,White-footed Mouse,Mammal,Least Concern
+60,American Beaver,Mammal,Least Concern
+61,Northern River Otter,Mammal,Least Concern
+62,Eastern Wood-Pewee,Bird,Least Concern
+63,Brown Thrasher,Bird,Least Concern
+64,Belted Kingfisher,Bird,Least Concern
+65,Eastern Screech Owl,Bird,Least Concern
+66,Eastern Bluebird,Bird,Least Concern
+67,Tufted Titmouse,Bird,Least Concern
+68,Eastern Gray Squirrel,Mammal,Least Concern
+69,Eastern Cottontail,Mammal,Least Concern
+70,American Black Bear,Mammal,Least Concern
+71,Gray Fox,Mammal,Least Concern
+72,Eastern Coyote,Mammal,Least Concern
+73,Common Raccoon,Mammal,Least Concern
+74,Eastern Chipmunk,Mammal,Least Concern
+75,White-tailed Deer,Mammal,Least Concern
+76,Eastern Gray Squirrel,Mammal,Least Concern
+77,Red Fox,Mammal,Least Concern
+78,White-tailed Prairie Dog,Mammal,Least Concern
+79,American Badger,Mammal,Least Concern
+80,Eastern Cottontail,Mammal,Least Concern
+81,Northern Bobwhite,Bird,Least Concern
+82,Eastern Meadowlark,Bird,Least Concern
+83,Eastern Towhee,Bird,Least Concern
+84,Eastern Phoebe,Bird,Least Concern
+85,White-tailed Deer,Mammal,Least Concern
+86,White-footed Mouse,Mammal,Least Concern
+87,American Beaver,Mammal,Least Concern
+88,Northern River Otter,Mammal,Least Concern
+89,Eastern Wood-Pewee,Bird,Least Concern
+90,Brown Thrasher,Bird,Least Concern
+91,Belted Kingfisher,Bird,Least Concern
+92,Eastern Screech Owl,Bird,Least Concern
+93,Eastern Bluebird,Bird,Least Concern
+94,Tufted Titmouse,Bird,Least Concern
+95,Eastern Gray Squirrel,Mammal,Least Concern
+96,Eastern Cottontail,Mammal,Least Concern
+97,American Black Bear,Mammal,Least Concern
+98,Gray Fox,Mammal,Least Concern
+99,Eastern Coyote,Mammal,Least Concern
+100,Common Raccoon,Mammal,Least Concern
+101,Eastern Chipmunk,Mammal,Least Concern
+102,White-tailed Deer,Mammal,Least Concern
+103,Eastern Gray Squirrel,Mammal,Least Concern
+104,Red Fox,Mammal,Least Concern
+105,White-tailed Prairie Dog,Mammal,Least Concern
+106,American Badger,Mammal,Least Concern
+107,Eastern Cottontail,Mammal,Least Concern
+108,Northern Bobwhite,Bird,Least Concern
+109,Eastern Meadowlark,Bird,Least Concern
+110,Eastern Towhee,Bird,Least Concern
+111,Eastern Phoebe,Bird,Least Concern
+112,White-tailed Deer,Mammal,Least Concern
+113,White-footed Mouse,Mammal,Least Concern
+114,American Beaver,Mammal,Least Concern
+115,Northern River Otter,Mammal,Least Concern
+116,Eastern Wood-Pewee,Bird,Least Concern
+117,Brown Thrasher,Bird,Least Concern
+118,Belted Kingfisher,Bird,Least Concern
+119,Eastern Screech Owl,Bird,Least Concern
+120,Eastern Bluebird,Bird,Least Concern
+121,Tufted Titmouse,Bird,Least Concern
+122,Eastern Gray Squirrel,Mammal,Least Concern
+123,Eastern Cottontail,Mammal,Least Concern
+124,American Black Bear,Mammal,Least Concern
+125,Gray Fox,Mammal,Least Concern
+126,Eastern Coyote,Mammal,Least Concern
+127,Common Raccoon,Mammal,Least Concern
+128,Eastern Chipmunk,Mammal,Least Concern
+129,White-tailed Deer,Mammal,Least Concern
+130,Eastern Gray Squirrel,Mammal,Least Concern
+131,Red Fox,Mammal,Least Concern
+132,White-tailed Prairie Dog,Mammal,Least Concern
+133,American Badger,Mammal,Least Concern
+134,Eastern Cottontail,Mammal,Least Concern
+135,Northern Bobwhite,Bird,Least Concern
+136,Eastern Meadowlark,Bird,Least Concern
+137,Eastern Towhee,Bird,Least Concern
+138,Eastern Phoebe,Bird,Least Concern
+139,White-tailed Deer,Mammal,Least Concern
+140,White-footed Mouse,Mammal,Least Concern
+141,American Beaver,Mammal,Least Concern
+142,Northern River Otter,Mammal,Least Concern
+143,Eastern Wood-Pewee,Bird,Least Concern
+144,Brown Thrasher,Bird,Least Concern
+145,Belted Kingfisher,Bird,Least Concern
+146,Eastern Screech Owl,Bird,Least Concern
+147,Eastern Bluebird,Bird,Least Concern
+148,Tufted Titmouse,Bird,Least Concern
+149,Eastern Gray Squirrel,Mammal,Least Concern
+150,Eastern Cottontail,Mammal,Least Concern
+151,American Black Bear,Mammal,Least Concern
+152,Gray Fox,Mammal,Least Concern
+153,Eastern Coyote,Mammal,Least Concern
+154,Common Raccoon,Mammal,Least Concern
+155,Eastern Chipmunk,Mammal,Least Concern
+156,White-tailed Deer,Mammal,Least Concern
+157,Eastern Gray Squirrel,Mammal,Least Concern
+158,Red Fox,Mammal,Least Concern
+159,White-tailed Prairie Dog,Mammal,Least Concern
+160,American Badger,Mammal,Least Concern
+161,Eastern Cottontail,Mammal,Least Concern
+162,Northern Bobwhite,Bird,Least Concern
+163,Eastern Meadowlark,Bird,Least Concern
+164,Eastern Towhee,Bird,Least Concern
+165,Eastern Phoebe,Bird,Least Concern
+166,White-tailed Deer,Mammal,Least Concern
+167,White-footed Mouse,Mammal,Least Concern
+168,American Beaver,Mammal,Least Concern
+169,Northern River Otter,Mammal,Least Concern
+170,Eastern Wood-Pewee,Bird,Least Concern
+171,Brown Thrasher,Bird,Least Concern
+172,Belted Kingfisher,Bird,Least Concern
+173,Eastern Screech Owl,Bird,Least Concern
+174,Eastern Bluebird,Bird,Least Concern
+175,Tufted Titmouse,Bird,Least Concern
+176,Eastern Gray Squirrel,Mammal,Least Concern
+177,Eastern Cottontail,Mammal,Least Concern
+178,American Black Bear,Mammal,Least Concern
+179,Gray Fox,Mammal,Least Concern
+180,Eastern Coyote,Mammal,Least Concern
+181,Common Raccoon,Mammal,Least Concern
+182,Eastern Chipmunk,Mammal,Least Concern
+183,White-tailed Deer,Mammal,Least Concern
+184,Eastern Gray Squirrel,Mammal,Least Concern
+185,Red Fox,Mammal,Least Concern
+186,White-tailed Prairie Dog,Mammal,Least Concern
+187,American Badger,Mammal,Least Concern
+188,Eastern Cottontail,Mammal,Least Concern
+189,Northern Bobwhite,Bird,Least Concern
+190,Eastern Meadowlark,Bird,Least Concern
+191,Eastern Towhee,Bird,Least Concern
+192,Eastern Phoebe,Bird,Least Concern
+193,White-tailed Deer,Mammal,Least Concern
+194,White-footed Mouse,Mammal,Least Concern
+195,American Beaver,Mammal,Least Concern
+196,Northern River Otter,Mammal,Least Concern
+197,Eastern Wood-Pewee,Bird,Least Concern
+198,Brown Thrasher,Bird,Least Concern
+199,Belted Kingfisher,Bird,Least Concern
+200,Eastern Screech Owl,Bird,Least Concern
+201,Eastern Bluebird,Bird,Least Concern
+202,Tufted Titmouse,Bird,Least Concern
+203,Eastern Gray Squirrel,Mammal,Least Concern
+204,Eastern Cottontail,Mammal,Least Concern
+205,American Black Bear,Mammal,Least Concern
+206,Gray Fox,Mammal,Least Concern
+207,Eastern Coyote,Mammal,Least Concern
+208,Common Raccoon,Mammal,Least Concern
+209,Eastern Chipmunk,Mammal,Least Concern
+210,White-tailed Deer,Mammal,Least Concern
+211,Eastern Gray Squirrel,Mammal,Least Concern
+212,Red Fox,Mammal,Least Concern
+213,White-tailed Prairie Dog,Mammal,Least Concern
+214,American Badger,Mammal,Least Concern
+215,Eastern Cottontail,Mammal,Least Concern
+216,Northern Bobwhite,Bird,Least Concern
+217,Eastern Meadowlark,Bird,Least Concern
+218,Eastern Towhee,Bird,Least Concern
+219,Eastern Phoebe,Bird,Least Concern
+220,White-tailed Deer,Mammal,Least Concern
+221,White-footed Mouse,Mammal,Least Concern
+222,American Beaver,Mammal,Least Concern
+223,Northern River Otter,Mammal,Least Concern
+224,Eastern Wood-Pewee,Bird,Least Concern
+225,Brown Thrasher,Bird,Least Concern
+226,Belted Kingfisher,Bird,Least Concern
+227,Eastern Screech Owl,Bird,Least Concern
+228,Eastern Bluebird,Bird,Least Concern
+229,Tufted Titmouse,Bird,Least Concern
+230,Eastern Gray Squirrel,Mammal,Least Concern
+231,Eastern Cottontail,Mammal,Least Concern
+232,American Black Bear,Mammal,Least Concern
+233,Gray Fox,Mammal,Least Concern
+234,Eastern Coyote,Mammal,Least Concern
+235,Common Raccoon,Mammal,Least Concern
+236,Eastern Chipmunk,Mammal,Least Concern
+237,White-tailed Deer,Mammal,Least Concern
+238,Eastern Gray Squirrel,Mammal,Least Concern
+239,Red Fox,Mammal,Least Concern
+240,White-tailed Prairie Dog,Mammal,Least Concern
+241,American Badger,Mammal,Least Concern
+242,Eastern Cottontail,Mammal,Least Concern
+243,Northern Bobwhite,Bird,Least Concern
+244,Eastern Meadowlark,Bird,Least Concern
+245,Eastern Towhee,Bird,Least Concern
+246,Eastern Phoebe,Bird,Least Concern
+247,White-tailed Deer,Mammal,Least Concern
+248,White-footed Mouse,Mammal,Least Concern
+249,American Beaver,Mammal,Least Concern
+250,Northern River Otter,Mammal,Least Concern
+251,Eastern Wood-Pewee,Bird,Least Concern
+252,Brown Thrasher,Bird,Least Concern
+253,Belted Kingfisher,Bird,Least Concern
+254,Eastern Screech Owl,Bird,Least Concern
+255,Eastern Bluebird,Bird,Least Concern
+256,Tufted Titmouse,Bird,Least Concern
+257,Eastern Gray Squirrel,Mammal,Least Concern
+258,Eastern Cottontail,Mammal,Least Concern
+259,American Black Bear,Mammal,Least Concern
+260,Gray Fox,Mammal,Least Concern
+261,Eastern Coyote,Mammal,Least Concern
+262,Common Raccoon,Mammal,Least Concern
+263,Eastern Chipmunk,Mammal,Least Concern
+264,White-tailed Deer,Mammal,Least Concern
+265,Eastern Gray Squirrel,Mammal,Least Concern
+266,Red Fox,Mammal,Least Concern
+267,White-tailed Prairie Dog,Mammal,Least Concern
+268,American Badger,Mammal,Least Concern
+269,Eastern Cottontail,Mammal,Least Concern
+270,Northern Bobwhite,Bird,Least Concern
+271,Eastern Meadowlark,Bird,Least Concern
+272,Eastern Towhee,Bird,Least Concern
+273,Eastern Phoebe,Bird,Least Concern
+274,White-tailed Deer,Mammal,Least Concern
+275,White-footed Mouse,Mammal,Least Concern
+276,American Beaver,Mammal,Least Concern
+277,Northern River Otter,Mammal,Least Concern
+278,Eastern Wood-Pewee,Bird,Least Concern
+279,Brown Thrasher,Bird,Least Concern
+280,Belted Kingfisher,Bird,Least Concern
+281,Eastern Screech Owl,Bird,Least Concern
+282,Eastern Bluebird,Bird,Least Concern
+283,Tufted Titmouse,Bird,Least Concern
+284,Eastern Gray Squirrel,Mammal,Least Concern
+285,Eastern Cottontail,Mammal,Least Concern
+286,American Black Bear,Mammal,Least Concern
+287,Gray Fox,Mammal,Least Concern
+288,Eastern Coyote,Mammal,Least Concern
+289,Common Raccoon,Mammal,Least Concern
+290,Eastern Chipmunk,Mammal,Least Concern
+291,White-tailed Deer,Mammal,Least Concern
+292,Eastern Gray Squirrel,Mammal,Least Concern
+293,Red Fox,Mammal,Least Concern
+294,White-tailed Prairie Dog,Mammal,Least Concern
+295,American Badger,Mammal,Least Concern
+296,Eastern Cottontail,Mammal,Least Concern
+297,Northern Bobwhite,Bird,Least Concern
+298,Eastern Meadowlark,Bird,Least Concern
+299,Eastern Towhee,Bird,Least Concern
+300,Eastern Phoebe,Bird,Least Concern
+301,White-tailed Deer,Mammal,Least Concern
+302,White-footed Mouse,Mammal,Least Concern
+303,American Beaver,Mammal,Least Concern
+304,Northern River Otter,Mammal,Least Concern
+305,Eastern Wood-Pewee,Bird,Least Concern
+306,Brown Thrasher,Bird,Least Concern
+307,Belted Kingfisher,Bird,Least Concern
+308,Eastern Screech Owl,Bird,Least Concern
+309,Eastern Bluebird,Bird,Least Concern
+310,Tufted Titmouse,Bird,Least Concern
+311,Eastern Gray Squirrel,Mammal,Least Concern
+312,Eastern Cottontail,Mammal,Least Concern
+313,American Black Bear,Mammal,Least Concern
+314,Gray Fox,Mammal,Least Concern
+315,Eastern Coyote,Mammal,Least Concern
+316,Common Raccoon,Mammal,Least Concern
+317,Eastern Chipmunk,Mammal,Least Concern
+318,White-tailed Deer,Mammal,Least Concern
+319,Eastern Gray Squirrel,Mammal,Least Concern
+320,Red Fox,Mammal,Least Concern
+321,White-tailed Prairie Dog,Mammal,Least Concern
+322,American Badger,Mammal,Least Concern
+323,Eastern Cottontail,Mammal,Least Concern
+324,Northern Bobwhite,Bird,Least Concern
+325,Eastern Meadowlark,Bird,Least Concern
+326,Eastern Towhee,Bird,Least Concern
+327,Eastern Phoebe,Bird,Least Concern
+328,White-tailed Deer,Mammal,Least Concern
+329,White-footed Mouse,Mammal,Least Concern
+330,American Beaver,Mammal,Least Concern
+331,Northern River Otter,Mammal,Least Concern
+332,Eastern Wood-Pewee,Bird,Least Concern
+333,Brown Thrasher,Bird,Least Concern
+334,Belted Kingfisher,Bird,Least Concern
+335,Eastern Screech Owl,Bird,Least Concern
+336,Eastern Bluebird,Bird,Least Concern
+337,Tufted Titmouse,Bird,Least Concern
+338,Eastern Gray Squirrel,Mammal,Least Concern
+339,Eastern Cottontail,Mammal,Least Concern
+340,American Black Bear,Mammal,Least Concern
+341,Gray Fox,Mammal,Least Concern
+342,Eastern Coyote,Mammal,Least Concern
+343,Common Raccoon,Mammal,Least Concern
+344,Eastern Chipmunk,Mammal,Least Concern
+345,White-tailed Deer,Mammal,Least Concern
+346,Eastern Gray Squirrel,Mammal,Least Concern
+347,Red Fox,Mammal,Least Concern
+348,White-tailed Prairie Dog,Mammal,Least Concern
+349,American Badger,Mammal,Least Concern
+350,Eastern Cottontail,Mammal,Least Concern
+351,Northern Bobwhite,Bird,Least Concern
+352,Eastern Meadowlark,Bird,Least Concern
+353,Eastern Towhee,Bird,Least Concern
+354,Eastern Phoebe,Bird,Least Concern
+355,White-tailed Deer,Mammal,Least Concern
+356,White-footed Mouse,Mammal,Least Concern
+357,American Beaver,Mammal,Least Concern
+358,Northern River Otter,Mammal,Least Concern
+359,Eastern Wood-Pewee,Bird,Least Concern
+360,Brown Thrasher,Bird,Least Concern
+361,Belted Kingfisher,Bird,Least Concern
+362,Eastern Screech Owl,Bird,Least Concern
+363,Eastern Bluebird,Bird,Least Concern
+364,Tufted Titmouse,Bird,Least Concern
+365,Eastern Gray Squirrel,Mammal,Least Concern
+366,Eastern Cottontail,Mammal,Least Concern
+367,American Black Bear,Mammal,Least Concern
+368,Gray Fox,Mammal,Least Concern
+369,Eastern Coyote,Mammal,Least Concern
+370,Common Raccoon,Mammal,Least Concern
+371,Eastern Chipmunk,Mammal,Least Concern
+372,White-tailed Deer,Mammal,Least Concern
+373,Eastern Gray Squirrel,Mammal,Least Concern
+374,Red Fox,Mammal,Least Concern
+375,White-tailed Prairie Dog,Mammal,Least Concern
+376,American Badger,Mammal,Least Concern
+377,Eastern Cottontail,Mammal,Least Concern
+378,Northern Bobwhite,Bird,Least Concern
+379,Eastern Meadowlark,Bird,Least Concern
+380,Eastern Towhee,Bird,Least Concern
+381,Eastern Phoebe,Bird,Least Concern
+382,White-tailed Deer,Mammal,Least Concern
+383,White-footed Mouse,Mammal,Least Concern
+384,American Beaver,Mammal,Least Concern
+385,Northern River Otter,Mammal,Least Concern
+386,Eastern Wood-Pewee,Bird,Least Concern
+387,Brown Thrasher,Bird,Least Concern
+388,Belted Kingfisher,Bird,Least Concern
+389,Eastern Screech Owl,Bird,Least Concern
+390,Eastern Bluebird,Bird,Least Concern
+391,Tufted Titmouse,Bird,Least Concern
+392,Eastern Gray Squirrel,Mammal,Least Concern
+393,Eastern Cottontail,Mammal,Least Concern
+394,American Black Bear,Mammal,Least Concern
+395,Gray Fox,Mammal,Least Concern
+396,Eastern Coyote,Mammal,Least Concern
+397,Common Raccoon,Mammal,Least Concern
+398,Eastern Chipmunk,Mammal,Least Concern
+399,White-tailed Deer,Mammal,Least Concern
+400,Eastern Gray Squirrel,Mammal,Least Concern
+401,Red Fox,Mammal,Least Concern
+402,White-tailed Prairie Dog,Mammal,Least Concern
+403,American Badger,Mammal,Least Concern
+404,Eastern Cottontail,Mammal,Least Concern
+405,Northern Bobwhite,Bird,Least Concern
+406,Eastern Meadowlark,Bird,Least Concern
+407,Eastern Towhee,Bird,Least Concern
+408,Eastern Phoebe,Bird,Least Concern
+409,White-tailed Deer,Mammal,Least Concern
+410,White-footed Mouse,Mammal,Least Concern
+411,American Beaver,Mammal,Least Concern
+412,Northern River Otter,Mammal,Least Concern
+413,Eastern Wood-Pewee,Bird,Least Concern
+414,Brown Thrasher,Bird,Least Concern
+415,Belted Kingfisher,Bird,Least Concern
+416,Eastern Screech Owl,Bird,Least Concern
+417,Eastern Bluebird,Bird,Least Concern
+418,Tufted Titmouse,Bird,Least Concern
+419,Eastern Gray Squirrel,Mammal,Least Concern
+420,Eastern Cottontail,Mammal,Least Concern
+421,American Black Bear,Mammal,Least Concern
+422,Gray Fox,Mammal,Least Concern
+423,Eastern Coyote,Mammal,Least Concern
+424,Common Raccoon,Mammal,Least Concern
+425,Eastern Chipmunk,Mammal,Least Concern
+426,White-tailed Deer,Mammal,Least Concern
+427,Eastern Gray Squirrel,Mammal,Least Concern
+428,Red Fox,Mammal,Least Concern
+429,White-tailed Prairie Dog,Mammal,Least Concern
+430,American Badger,Mammal,Least Concern
+431,Eastern Cottontail,Mammal,Least Concern
+432,Northern Bobwhite,Bird,Least Concern
+433,Eastern Meadowlark,Bird,Least Concern
+434,Eastern Towhee,Bird,Least Concern
+435,Eastern Phoebe,Bird,Least Concern
+436,White-tailed Deer,Mammal,Least Concern
+437,White-footed Mouse,Mammal,Least Concern
+438,American Beaver,Mammal,Least Concern
+439,Northern River Otter,Mammal,Least Concern
+440,Eastern Wood-Pewee,Bird,Least Concern
+441,Brown Thrasher,Bird,Least Concern
+442,Belted Kingfisher,Bird,Least Concern
+443,Eastern Screech Owl,Bird,Least Concern
+444,Eastern Bluebird,Bird,Least Concern
+445,Tufted Titmouse,Bird,Least Concern
+446,Eastern Gray Squirrel,Mammal,Least Concern
+447,Eastern Cottontail,Mammal,Least Concern
+448,American Black Bear,Mammal,Least Concern
+449,Gray Fox,Mammal,Least Concern
+450,Eastern Coyote,Mammal,Least Concern
+451,Common Raccoon,Mammal,Least Concern
+452,Eastern Chipmunk,Mammal,Least Concern
+453,White-tailed Deer,Mammal,Least Concern
+454,Eastern Gray Squirrel,Mammal,Least Concern
+455,Red Fox,Mammal,Least Concern
+456,White-tailed Prairie Dog,Mammal,Least Concern
+457,American Badger,Mammal,Least Concern
+458,Eastern Cottontail,Mammal,Least Concern
+459,Northern Bobwhite,Bird,Least Concern
+460,Eastern Meadowlark,Bird,Least Concern
+461,Eastern Towhee,Bird,Least Concern
+462,Eastern Phoebe,Bird,Least Concern
+463,White-tailed Deer,Mammal,Least Concern
+464,White-footed Mouse,Mammal,Least Concern
+465,American Beaver,Mammal,Least Concern
+466,Northern River Otter,Mammal,Least Concern
+467,Eastern Wood-Pewee,Bird,Least Concern
+468,Brown Thrasher,Bird,Least Concern
+469,Belted Kingfisher,Bird,Least Concern
+470,Eastern Screech Owl,Bird,Least Concern
+471,Eastern Bluebird,Bird,Least Concern
+472,Tufted Titmouse,Bird,Least Concern
+473,Eastern Gray Squirrel,Mammal,Least Concern
+474,Eastern Cottontail,Mammal,Least Concern
+475,American Black Bear,Mammal,Least Concern
+476,Gray Fox,Mammal,Least Concern
+477,Eastern Coyote,Mammal,Least Concern
+478,Common Raccoon,Mammal,Least Concern
+479,Eastern Chipmunk,Mammal,Least Concern
+480,White-tailed Deer,Mammal,Least Concern
+481,Eastern Gray Squirrel,Mammal,Least Concern
+482,Red Fox,Mammal,Least Concern
+483,White-tailed Prairie Dog,Mammal,Least Concern
+484,American Badger,Mammal,Least Concern
+485,Eastern Cottontail,Mammal,Least Concern
+486,Northern Bobwhite,Bird,Least Concern
+487,Eastern Meadowlark,Bird,Least Concern
+488,Eastern Towhee,Bird,Least Concern
+489,Eastern Phoebe,Bird,Least Concern
+490,White-tailed Deer,Mammal,Least Concern
+491,White-footed Mouse,Mammal,Least Concern
+492,American Beaver,Mammal,Least Concern
+493,Northern River Otter,Mammal,Least Concern
+494,Eastern Wood-Pewee,Bird,Least Concern
+495,Brown Thrasher,Bird,Least Concern
+496,Belted Kingfisher,Bird,Least Concern
+497,Eastern Screech Owl,Bird,Least Concern
+498,Eastern Bluebird,Bird,Least Concern
+499,Tufted Titmouse,Bird,Least Concern
+500,Eastern Gray Squirrel,Mammal,Least Concern

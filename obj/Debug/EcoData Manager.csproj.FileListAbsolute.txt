@@ -1,0 +1,20 @@
+c:\Users\info\Desktop\DEV420\Assignment_2\EcoData Manager\obj\Debug\EcoData Manager.csproj.AssemblyReference.cache
+c:\Users\info\Desktop\DEV420\Assignment_2\EcoData Manager\obj\Debug\EcoData_Manager.Form1.resources
+c:\Users\info\Desktop\DEV420\Assignment_2\EcoData Manager\obj\Debug\EcoData_Manager.Properties.Resources.resources
+c:\Users\info\Desktop\DEV420\Assignment_2\EcoData Manager\obj\Debug\EcoData Manager.csproj.GenerateResource.cache
+c:\Users\info\Desktop\DEV420\Assignment_2\EcoData Manager\obj\Debug\EcoData Manager.csproj.CoreCompileInputs.cache
+c:\Users\info\Desktop\DEV420\Assignment_2\EcoData Manager\bin\Debug\EcoData Manager.exe.config
+c:\Users\info\Desktop\DEV420\Assignment_2\EcoData Manager\bin\Debug\EcoData Manager.exe
+c:\Users\info\Desktop\DEV420\Assignment_2\EcoData Manager\bin\Debug\EcoData Manager.pdb
+c:\Users\info\Desktop\DEV420\Assignment_2\EcoData Manager\obj\Debug\EcoData Manager.exe
+c:\Users\info\Desktop\DEV420\Assignment_2\EcoData Manager\obj\Debug\EcoData Manager.pdb
+C:\Users\henry\Desktop\DEV420\Assignment_2\Assignment_2\EcoData Manager\bin\Debug\EcoData Manager.exe.config
+C:\Users\henry\Desktop\DEV420\Assignment_2\Assignment_2\EcoData Manager\bin\Debug\EcoData Manager.exe
+C:\Users\henry\Desktop\DEV420\Assignment_2\Assignment_2\EcoData Manager\bin\Debug\EcoData Manager.pdb
+C:\Users\henry\Desktop\DEV420\Assignment_2\Assignment_2\EcoData Manager\obj\Debug\EcoData Manager.csproj.AssemblyReference.cache
+C:\Users\henry\Desktop\DEV420\Assignment_2\Assignment_2\EcoData Manager\obj\Debug\EcoData_Manager.Form1.resources
+C:\Users\henry\Desktop\DEV420\Assignment_2\Assignment_2\EcoData Manager\obj\Debug\EcoData_Manager.Properties.Resources.resources
+C:\Users\henry\Desktop\DEV420\Assignment_2\Assignment_2\EcoData Manager\obj\Debug\EcoData Manager.csproj.GenerateResource.cache
+C:\Users\henry\Desktop\DEV420\Assignment_2\Assignment_2\EcoData Manager\obj\Debug\EcoData Manager.csproj.CoreCompileInputs.cache
+C:\Users\henry\Desktop\DEV420\Assignment_2\Assignment_2\EcoData Manager\obj\Debug\EcoData Manager.exe
+C:\Users\henry\Desktop\DEV420\Assignment_2\Assignment_2\EcoData Manager\obj\Debug\EcoData Manager.pdb
